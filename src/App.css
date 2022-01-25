@@ -23,6 +23,15 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.buttons {
+  display: block;
+}
+.Game {
+  display: flex;
+}
+.Game div {
+  margin: 1rem;
+}
 
 .App-link {
   color: #61dafb;
